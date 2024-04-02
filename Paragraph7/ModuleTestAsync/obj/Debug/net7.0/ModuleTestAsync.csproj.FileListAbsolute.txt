@@ -1,0 +1,5 @@
+D:\403\Paragraph7\ModuleTestAsync\obj\Debug\net7.0\ModuleTestAsync.csproj.AssemblyReference.cache
+D:\403\Paragraph7\ModuleTestAsync\obj\Debug\net7.0\ModuleTestAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\403\Paragraph7\ModuleTestAsync\obj\Debug\net7.0\ModuleTestAsync.AssemblyInfoInputs.cache
+D:\403\Paragraph7\ModuleTestAsync\obj\Debug\net7.0\ModuleTestAsync.AssemblyInfo.cs
+D:\403\Paragraph7\ModuleTestAsync\obj\Debug\net7.0\ModuleTestAsync.csproj.CoreCompileInputs.cache
